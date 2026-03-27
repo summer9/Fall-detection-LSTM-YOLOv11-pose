@@ -32,7 +32,7 @@ The system outputs:
 
 ## 🎥 Demo
 
-🔗 Live Demo: [YOUR HUGGING FACE LINK]
+🔗 Live Demo: https://huggingface.co/spaces/PhuongLM/Fall_Detection
 
 The demo allows users to:
 - Upload a video
